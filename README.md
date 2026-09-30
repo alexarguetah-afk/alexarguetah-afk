@@ -34,7 +34,9 @@ My public repositories are the place to explore my software projects and availab
 
 These details are transcribed from the score report I supplied. This profile is a personal account of that result; it does not represent independent verification by GitHub, Pearson, or another organization. The testing date and report date refer to different events.
 
-The report image is pending upload to this repository.
+[View the supplied WAIS-IV score report](./assets/wais-iv-report.jpg).
+
+![WAIS-IV score report — Alejandro Argueta Hernández — WAIS-IV 152 — IQ 152](./assets/wais-iv-report.jpg)
 
 ## Alejandro Argueta Hernández — CI 152
 
